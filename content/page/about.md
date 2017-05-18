@@ -1,5 +1,5 @@
 +++
-author = "author"
+author = "Florian Bernard"
 date = "2016-03-15T18:18:41-07:00"
 description = "description"
 draft = false

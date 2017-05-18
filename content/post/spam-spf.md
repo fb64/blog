@@ -1,5 +1,5 @@
 +++
-author = "Florian"
+author = "Florian Bernard"
 categories = ["administration"]
 date = "2017-05-18T18:17:52"
 description = "Problème de vérification SPF avec un serveur SMTP"

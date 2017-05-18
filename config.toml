@@ -1,0 +1,56 @@
+baseurl                 = "http://blog.fbernard.fr/"
+languageCode            = "fr-fr"
+title                   = "Pas de Problème, que des Solutions!"
+theme                   = "hugo-flatblog-theme"
+defaultContentLanguage  = "fr"
+
+[permalinks]
+    post                = "/:year/:month/:slug/"
+    page                = "/:slug/"
+
+[taxonomies]
+    tag                 = "tags"
+    category            = "categories"
+
+# The header menu will appear as an inline-list at the top right of the page
+[[menu.header]]
+    name                = "Accueil"
+    weight              = 1
+    url                 = "/"
+
+[[menu.header]]
+    name                = "À Propos"
+    weight              = 2
+    url                 = "/about/"
+
+# The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
+#[[menu.footer]]
+#    name                = "Privacy Policy"
+#    weight              = 1
+#    url                 = "/privacy-policy/"
+
+[params]
+    AuthorName          = "Florian Bernard"
+    author              = "Florian Bernard"
+    keywords            = ["développement", "technique"]
+    description         = "Blog présentant des solutions aux problèmes recontré en tant que développeur"
+    google_analytics    = "UA-99399775-1"
+    #google_adsense      = "ca-pub-XXXXXX"
+    disqus              = "blog-fb"
+    google_webmaster    = ""
+    bing_webmaster      = ""
+    alexa               = ""
+    favicon             = "/favicon.png"
+
+# Social media icons and links that appear in the footer
+[social]
+    twitter             = "fbe64"
+    #googleplus          = "https://plus.google.com/NAME_HERE"
+    linkedin            = "https://www.linkedin.com/in/florianbernard64"
+    #youtube             = "https://www.youtube.com/users/NAME_HERE"
+    #paypal              = "https://paypal.me/NAME_HERE"
+    instagram           = ""
+    reddit              = ""
+    email               = "mailto:me@fbernad.fr"
+    pinterest           = ""
+    wordpress           = ""

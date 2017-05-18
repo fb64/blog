@@ -1,7 +1,7 @@
 +++
 author = "Florian"
 categories = ["administration"]
-date = "2017-05-15T18:17:52"
+date = "2017-05-18T18:17:52"
 description = "Problème de vérification SPF avec un serveur SMTP"
 draft = false
 tags = ["mail","dns","spf"]

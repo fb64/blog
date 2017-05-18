@@ -1,3 +1,7 @@
 [submodule "themes/hugo-flatblog-theme"]
 	path = themes/hugo-flatblog-theme
 	url = https://github.com/fb64/hugo-flatblog-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/fb64/fb64.github.io.git
+	branch = master

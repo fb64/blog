@@ -37,9 +37,6 @@ defaultContentLanguage  = "fr"
     google_analytics    = "UA-99399775-1"
     #google_adsense      = "ca-pub-XXXXXX"
     disqus              = "blog-fb"
-    google_webmaster    = ""
-    bing_webmaster      = ""
-    alexa               = ""
     favicon             = "/favicon.png"
 
 # Social media icons and links that appear in the footer

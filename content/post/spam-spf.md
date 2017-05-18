@@ -9,7 +9,7 @@ title = "Spam et champ SPF"
 +++
 ## Problématique
 
-Il y a peut de temps j'ai installé un serveur [SMTP](https://fr.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré [Postfix](http://www.postfix.org/) sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires les recevaient pas.
+Il y a peut de temps j'ai installé un serveur [SMTP](https://fr.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré [Postfix](http://www.postfix.org/) sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires ne les recevaient pas.
 
 Je me suis rendu compte du problème en affichant la sources d'un des mails reçu :
 ```

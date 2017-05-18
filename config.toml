@@ -42,6 +42,7 @@ defaultContentLanguage  = "fr"
 # Social media icons and links that appear in the footer
 [social]
     twitter             = "fbe64"
+    github              = "fb64"
     #googleplus          = "https://plus.google.com/NAME_HERE"
     linkedin            = "https://www.linkedin.com/in/florianbernard64"
     #youtube             = "https://www.youtube.com/users/NAME_HERE"

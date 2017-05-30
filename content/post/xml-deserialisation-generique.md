@@ -3,7 +3,7 @@ author = "Florian Bernard"
 categories = ["programmation"]
 date = "2017-05-30T17:57:22+02:00"
 description = "desérialisation générique en xml"
-draft = true
+draft = false
 tags = ["xml","java"]
 title = "Desérialisation générique en xml"
 
@@ -111,7 +111,7 @@ public static final String XML = "<monApi> <voiture><marque>renault</marque><cou
 }
 ```
 
-Cette solution permet d'utiliser toujours la même classe de façon générique pour tout les objets contenu dans le même élément parent.
+Cette solution permet d'utiliser toujours la même classe de façon générique pour tous les objets contenus dans le même élément parent.
 
 
 

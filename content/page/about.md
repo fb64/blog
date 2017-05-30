@@ -13,6 +13,6 @@ Je suis Florian Bernard, j'ai 32ans et je suis développeur (professionnel) depu
 
 Dans mon poste actuelle, il m’arrive d’intervenir sur toutes les phases d’un projet, du recueil de besoins jusqu’à la mise en production en passant par le développement et les tests. Cette expérience m’amène chaque jour à rencontrer des problématiques et à essayer de les résoudre. Ce blog me permettra de partager mes trouvailles et si personne ne me lit il me servira de mémo technique :)
 
-N'hésitez pas à me contacter / commenter / me corriger si l'envie vous prends.
+N'hésitez pas à me contacter / commenter / me corriger si l'envie vous prend.
 Bonne lecture !
 
